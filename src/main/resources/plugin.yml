@@ -1,0 +1,4 @@
+name: MinecraftChampionship
+version: '${project.version}'
+main: dev.awesomebfm.minecraftchampionship.MinecraftChampionship
+api-version: 1.19
